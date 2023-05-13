@@ -7,18 +7,6 @@
 </div>
 <br>
 <div align="center">
-  <h3>📧 Contact 📧</h3>
-  <div align="center" style="display:flex; flex-direction:row;">
-  <a href="mailto:rippang781@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
-  </a>
-  <a href="mailto:minimew2@naver.com">
-    <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
-  </a>
-</div>
-</div>
-<br>
-<div align="center">
   <h3>🔨 Skills 🔨</h3>
   <h4>Languages & Library</h4>
   <div align="center" style="display:flex; flex-direction:row;">
