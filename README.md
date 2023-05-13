@@ -43,7 +43,4 @@
     <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white">
   </div>
 </div>
-
-
-
-
+<br>
