@@ -9,10 +9,10 @@
 <div align="center">
   <h3>📧 Contact 📧</h3>
   <div align="center" style="display:flex; flex-direction:row;">
-  <a href="rippang781@gmail.com">
+  <a href="mailto:rippang781@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> 
   </a>
-  <a href="minimew2@naver.com">
+  <a href="mailto:minimew2@naver.com">
     <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"> 
   </a>
 </div>
@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   </div>
   <br>
-  <h4>🔨 Once I've used 🔨</h4>
+  <h4>Once I've used</h4>
   <div align="center" style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white">
