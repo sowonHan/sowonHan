@@ -32,7 +32,6 @@
     <img src="https://img.shields.io/badge/Ant Design-0170FE?style=flat-square&logo=antdesign&logoColor=white">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white">
     <img src="https://img.shields.io/badge/Redux Saga-999999?style=flat-square&logo=reduxsaga&logoColor=white">
     <br>
     <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazon aws&logoColor=white">
