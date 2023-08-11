@@ -7,6 +7,11 @@
 </div>
 <br>
 <div align="center">
+  <div>
+    <p>📧Email : hansowon.dev@gmail.com</p>
+    <p>📝Blog : https://rippang-swh.tistory.com/</p>
+  </div>
+  <br>
   <h3>🔨 Skills 🔨</h3>
   <h4>Languages & Library</h4>
   <div align="center" style="display:flex; flex-direction:row;">
