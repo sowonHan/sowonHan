@@ -8,8 +8,8 @@
 <br>
 <div align="center">
   <div>
-    <p>📧Email : hansowon.dev@gmail.com</p>
-    <p>📝Blog : https://rippang-swh.tistory.com/</p>
+    <p>📧 Email : hansowon.dev@gmail.com</p>
+    <p>📝 Blog : https://rippang-swh.tistory.com/</p>
   </div>
   <br>
   <h3>🔨 Skills 🔨</h3>
